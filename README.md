@@ -2,5 +2,5 @@
 
 ## How to execute code?
 - cd /hw-xx
-- make
+- make exercisey
 - ./exercisey
