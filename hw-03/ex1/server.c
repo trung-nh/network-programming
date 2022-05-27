@@ -54,9 +54,6 @@ int main(int argc, char *argv[])
         int id_digits = 0, id_alpha = 0, is_invalid = 0, i;        
 
         printf("\n[ TO CLIENT ]\n-->Sending data to client ...\n");
-        
-        // debug
-        // printf("msg=%s\tlen=%d\n", message, received_msg_len);
 
         for (i = 0; i < received_msg_len - 1; i++)
         {
